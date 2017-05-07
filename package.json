@@ -1,0 +1,15 @@
+{
+  "name": "vue-dragon",
+  "version": "1.0.0",
+  "description": "A drag and drop directive for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Stone",
+  "license": "ISC",
+  "dependencies": {
+    "onify": "^1.0.1",
+    "throttle-debounce": "^1.0.1"
+  }
+}
